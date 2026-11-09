@@ -1,0 +1,1 @@
+este juego va de que tienes que adivinar un numero de 3 cifras con 3 intentos 
